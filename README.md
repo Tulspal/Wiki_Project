@@ -3,5 +3,5 @@ This project looks at the top five active Wikipedia contributions of each year f
 # Objectives
 1. Analyze the gender ratio of active Wikipedia users in Punjabi, Hindi, and Telugu Wikipedias.
 2. Track changes in the gender ratio over the last five years (2019-2024).
-3.Identify trends in contributor activity by gender.  
+3. Identify trends in contributor activity by gender.  
   
